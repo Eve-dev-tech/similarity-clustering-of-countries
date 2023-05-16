@@ -1,8 +1,9 @@
 # Socio--economic-factors-study-with-clustering
-This case study aims to deep dive into one such dataset that contains various socio-economic attributes for countries around the world.
+This project looks into a dataset that contains various socio-economic attributes for countries around the world.
+The objective is to identify if there exist various clusters of countries that are more similar to each other in terms of certain socio-economic factors
 
 
-# Practice Case Study - Clustering
+# Clustering
 
 -----------------------------------------
 ## Context
